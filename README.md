@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋. 
+
+[dancingbaby](./dancingbaby.gif)
+
+## About Me
+
+- Learning to code. 
+- Like to throw heavy weights over my head (weightlifting). 
+- Trying to switch careers from Sys Admin to Developer. 
+- Love hanging out with my 6 (yes, six!) dogs
+
 
 <!--
 **hmsiegel/hmsiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
