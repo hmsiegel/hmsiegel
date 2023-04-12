@@ -1,6 +1,6 @@
 ### Hi there 👋. 
 
-[dancingbaby](./dancingbaby.gif)
+![dancingbaby](./dancingbaby.gif)
 
 ## About Me
 
