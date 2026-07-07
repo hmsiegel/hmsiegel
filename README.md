@@ -28,8 +28,8 @@ When I'm not writing code, I'm probably loading a barbell, running the tech for 
 
 ## 📊 GitHub Stats
 
-![Harlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmsiegel&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmsiegel&layout=compact)
+![Harlan's GitHub stats](https://github-readme-stats-alpha-olive-60.vercel.app/api?username=hmsiegel&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-alpha-olive-60.vercel.app/api/top-langs/?username=hmsiegel&layout=compact)
 
 ## 📫 Let's connect
 
